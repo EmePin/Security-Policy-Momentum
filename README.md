@@ -67,7 +67,7 @@ You have complete control over your data:
 - **Access:** View all your data within the app
 - **Modify:** Edit or update your information at any time
 - **Delete:** Remove specific items or clear all data
-- **Export:** (Future feature) Export your data for backup purposes
+- **Export:** Export your data for backup purposes
 - **Uninstall:** Permanently delete all data by uninstalling the app
 
 ## Permissions
